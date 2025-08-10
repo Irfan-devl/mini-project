@@ -1,19 +1,32 @@
-Creative To-Do List Application
-Project Overview
-This project is a simple yet creative and attractive To-Do List web application. It allows users to add, complete, and remove tasks, helping them organize their daily activities. The application is built using a clean and modern design with a focus on user experience.
+Creative To-Do List Application:
 
-Features
-Add Tasks: Users can add new tasks by typing into an input field and clicking the "Add" button or by pressing the "Enter" key.
+Project Overview:
 
-Mark as Completed: A "Completed" button allows users to mark tasks as finished, applying a line-through style to the text.
+        This project is a simple yet creative and attractive To-Do List web application. It allows users to add, complete, and remove tasks, helping them organize their daily activities. The application is built using a clean and modern design with a focus on user experience.
 
-Remove Tasks: An "Remove" button provides the ability to delete tasks from the list.
+Features:
+        
+        Add Tasks: Users can add new tasks by typing into an input field and clicking the "Add" button or by pressing the "Enter" key.
 
-Local Storage: All tasks are automatically saved to the browser's local storage, so they persist even if the user closes the browser or refreshes the page.
+Mark as Completed:
+        
+        A "Completed" button allows users to mark tasks as finished, applying a line-through style to the text.
 
-Responsive Design: The application's layout is responsive and works well on various screen sizes, from desktops to mobile devices.
+Remove Tasks:
+        
+        An "Remove" button provides the ability to delete tasks from the list.
 
-Modern UI: The interface is designed with a vibrant color palette, clear typography, and subtle animations to provide an engaging user experience.
+Local Storage:
+        
+        All tasks are automatically saved to the browser's local storage, so they persist even if the user closes the browser or refreshes the page.
+
+Responsive Design:
+        
+        The application's layout is responsive and works well on various screen sizes, from desktops to mobile devices.
+
+Modern UI:
+        
+        The interface is designed with a vibrant color palette, clear typography, and subtle animations to provide an engaging user experience.
 
 Technologies Used
 HTML5: For the structure of the web page.
