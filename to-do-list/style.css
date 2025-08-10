@@ -1,0 +1,78 @@
+body{
+    background-color: rgb(3, 41, 41);
+}
+.container{
+    display: flexbox;
+    margin: 150px 500px;
+    padding: 30px;
+    border-radius: 5px;
+    border: 2px sienna ;
+    background-color:rgb(2, 100, 100);
+    
+}
+
+#head{
+    text-align: center;
+    background-color: rgb(122, 175, 158);
+    color:darkslategrey;
+    border-radius: 10px;
+}
+
+.search{
+    text-align: center;
+}
+.lis{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+    align-items: center;
+    border-radius: 5px;
+    border-style: hidden;
+    flex-wrap: wrap;
+    background-color:  rgb(122, 175, 158);
+    padding-left: 10px;
+}
+.para{
+    overflow:hidden;
+    color: #034231;
+    font-size: large;
+    font-style: inherit;
+}
+.para:hover{
+    overflow: visible;
+}
+.in{
+    width: 400px;
+    height: 30px;
+    border-radius: 10px;
+    border-style: hidden;
+    padding: 10px;
+    background-color:  rgb(122, 175, 158);
+    color: darkslategray;
+}
+.unl{
+    list-style: none;
+    padding-inline-start: 5px;
+}
+.but{
+    display: flex;
+    justify-content: space-between;
+}
+button{
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 5px;
+    cursor:pointer;
+    background-color: #034231;
+    opacity: 0.3;
+    border-radius: 5px;
+    border-style:solid;
+    size: 50px;
+    font-size: medium;
+    color: rgb(138, 194, 194);
+    font-style: oblique;
+    
+}
+button:hover{
+    background-color: #010b09;
+} 
